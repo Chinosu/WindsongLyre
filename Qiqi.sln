@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindsongLyre", "WindsongLyre\WindsongLyre.csproj", "{07E23A88-1D9D-409B-9233-096A78E66EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E23A88-1D9D-409B-9233-096A78E66EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E23A88-1D9D-409B-9233-096A78E66EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E23A88-1D9D-409B-9233-096A78E66EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E23A88-1D9D-409B-9233-096A78E66EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1653176B-F75D-467A-9A8E-25CF082BD0F2}
+	EndGlobalSection
+EndGlobal
